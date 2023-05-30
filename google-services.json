@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "756107480321",
+    "firebase_url": "https://testsebas-7d5fc-default-rtdb.firebaseio.com",
+    "project_id": "testsebas-7d5fc",
+    "storage_bucket": "testsebas-7d5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756107480321:android:700198f2136e293b75df00",
+        "android_client_info": {
+          "package_name": "cr.ac.una.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7eWWvrVdIfyhbzc801_BD56_a6tfYwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756107480321:android:0743d9502587540f75df00",
+        "android_client_info": {
+          "package_name": "cr.una.ac.firebase_sebas_edgar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7eWWvrVdIfyhbzc801_BD56_a6tfYwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
